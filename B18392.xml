@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King and Queens Authority. These are to give notice, that here is lately arrived an experienced and most famous High-German doctor, who by his great study, and constant practice in several parts of the world, as well in princes courts as in hospitals, and war-like expeditions, hath obtained such a physical method, as to cure all external and internal distempers (if curable)....</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18392</idno><idno type="EEBO-CITATION">99888581</idno>
+  <idno type="VID">195807</idno>
+  <idno type="EEBO-PROQUEST">2240903388</idno>
+  
+            <idno type="STC">Wing B6363CB</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[2]</idno>
+            <idno type="STC">ESTC R231164</idno>
+            <idno type="PROQUEST">ocm99888581</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888581e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195807)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King and Queens Authority. These are to give notice, that here is lately arrived an experienced and most famous High-German doctor, who by his great study, and constant practice in several parts of the world, as well in princes courts as in hospitals, and war-like expeditions, hath obtained such a physical method, as to cure all external and internal distempers (if curable)....</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcut);.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Imprint from Wing.  Wing gives two imprint dates and two settings, 1689 and 1694.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_doctor">
+            <pb facs="tcp:195807:1"/>
+            <head>By the KING and QUEENS Authority.</head>
+            <figure>
+               <figDesc>a doctor speaking to a man lying on a couch, while others wait in a line to purchase remedies</figDesc>
+            </figure>
+            <p>THese are to give Notice, That here is lately Arrived an Experienced and most Famous <hi>High-German</hi> Doctor, who by his great Study, and constant Practice in several Parts of the World, as well in Princes Courts, as in Hospitals, and War-like Expeditions, hath obtained such a Phy<g ref="char:EOLhyphen"/>sical Method, as to Cure all external and internal Distempers <hi>(if Curable)</hi> and a great many he has c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when left off by others as incurable; as he can shew by Testimonials not only from Empe<g ref="char:EOLhyphen"/>rors, Kings, Dukes, and Electoral Princes, but also from the right honorable the Lord Mayor of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> with the Court of Aldermen. Also from the Right Worshipful Mayor and Aldermen of the City of <hi>Bristol, <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rcer<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> and <hi>Hereford,</hi> &amp;c. and many other Citles and Corporations in this Kingdom, certifying the wond<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l Cures he has undertaken, and (by Gods Blessing) most happily performed.</p>
+            <p n="2">2. He lets you understand, that he is so Famous an Oculist, as also so excellent in Curing the Stone and Rupture, that the like of him is scarce to be found. If any Patients come which are troubled with Blindness of the Eys by <hi>Cataracts,</hi> he restores their sight in less than a quarter of an hour, and makes them perfectly to see in 8 or 9 days time if they have been blind 10, 15, or 20 years: He has Cured those that were Born Blind (by <hi>Cataracts.</hi>) He cureth also <hi>Obstructions, Suffusions,</hi> Dimness, or Darkness in the Eyes, as also Redness, Horness, or running of the Eyes, or any other Distemper of the Eyes which is not here mentioned, he Cures to Admiration in a very short time.</p>
+            <p n="3">3. Such People as are troubled with that intollerable pain of the Stone in the Bladder <hi>(in making wa<g ref="char:EOLhyphen"/>ter)</hi> he cures the same dexterously (after all other means unprofitably used) by Cutting, or without; in a few days by a new and easy method: He can also take the Stone out of the Bladder of Women or Maids without Cutting, <hi>per dilat<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tionem.</hi>
+            </p>
+            <p n="4">4. He helps also all Bursten or Broken Bellies, either in Men, Women or Children, whether the Rup<g ref="char:EOLhyphen"/>tures be in the Groin or Navel, and if the Rupture be as big as a Mans Head, then trust to God and his Art, and you shall have your Cure, that you may go about in a short time without a Truss, if you have been Bursten 20 or 30 years together. He also directeth Artificially all sorts of Trusses, so easy the like was never seen, the Patient may go in the same, and Ride, Dance and Spring, and do what they will with<g ref="char:EOLhyphen"/>out any Danger, which Medicine healeth artificially under the same. Of these Ruptures are found seven sorts, <hi>Hernia, Intestinal<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Ventosa, Varicos<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Aquosa, Carnosa, Humoralis, Exompalis;</hi> all these this famous Do-Doctor can help in a short time, either by Cutting or without Cutting, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:195807:2"/>ent: And those Patients that desire to be Cured with Cutting, he will undertake to Cure them artifi<g ref="char:EOLhyphen"/>cially, without any Danger in 14 days, and others without Cutting in 6 or 8 weeks.</p>
+            <p n="5">5. He also Cures Hair-Lips, Wry Necks, also all sorts of Ulcers, great Wens, Cancers, in the Lips, Tongue, or Breast, the Rickets in Children, Crooked Legs, Fistula's either in Arms, Legs, Eyes, <hi>&amp;c.</hi> in a short time.</p>
+            <p n="6">6. This Doctor hath a curious way for the curing of the Kings-Evil, and Falling-Sickness in Men, Women and Children, if they have been troubled with it 10 or 20 years, so that they shall not be trou<g ref="char:EOLhyphen"/>bled with it again all their Life time.</p>
+            <p n="7">7. He likewise cureth Women and Maids of many Infirmities, as, The Green. Sickness, Stoppage or Overflowing of the Courses of Nature, He also helps the Whites and Weakness of the Back, and other Di<g ref="char:EOLhyphen"/>stempers of Women. He hath also a great Secret to help Conception; likewise a powerful Medicine to prevent Miscarriage, although you have Miscarried 5 or 6 times successively.</p>
+            <p n="8">8. This Doctor cureth in an Extraordinary, and most easy manner the <hi>Morbus Gallicus</hi> or <hi>French</hi> POX with all its Symptoms, (as the <hi>Gonorrhaea</hi> or Running of the Reins, Shankers, Buboes, or swellings in the Groin,) pain in the Head, Arms, Shoulders and Legs, or Ulcers in the Mouth, Throat, Scabs, Itch, and breaking out over the whole Body, after a new and easy method, although you have had it several years, and have been Fluxt several times, and almost spoiled by others, and given over as incurable; he can cure you both surely and safely, without either Fluxing or Mercury, or any Danger at all; he has cured abundance when left off by other Doctors as incurable; therefore for the satisfaction of those who have been Sporting in the Garden of VENUS, and instead of Pleasure have met with a CLAP or Running of the Reins; he promises to Cure them in 6 or 7 days time, or else desires nothing for his pains, which is as much as to say NO CURE NO MONEY.</p>
+            <p n="9">9. He cureth artificially all Distempers in Men or Women, as Vapours, Giddiness, or Swimming of the Head, or any Fainting Fits, Noise of the Head, Deafness; also the Dropsie, Yellow Jaundice, Scurvy, Rhumatism, Cold and Phlegmatick Stomach, Windy and tedious Coughs, spitting of Blood, Ptifick, Con<g ref="char:EOLhyphen"/>sumption, stoppage of the Liver, hardness of the Spleen, over-flowing of the Gall, Melancholy, Mad<g ref="char:EOLhyphen"/>ness, Small Pox, Agues, Feavers, Pleurisies, Wind and Cholick, Palsy, all Pains or Aches of the Limbs, or any part of the Body, Lameness, Shrinking or Contraction of the Nerves or Sinews, Bloody Flux, stoppage of the Urine, or such as cannot hold their Water, or pains in making Water, voiding of Blood, Ulcers in the Womb and Bladder: And many other Distempers which no Physician can give name to; he hath Cured such, when given over by others as incurable.</p>
+            <p n="10">10. He would have no person despair by reason of the long continuance of their Distemper; but let them bring their Urine and he will give his Judgment in all Distempers, and resolve you if the Disease be curable or not, if Curable he will undertake them; if not, he tells you so, that you may not be abu<g ref="char:EOLhyphen"/>sed by False Pretenders; and will give you such Satisfaction, that you may see what an Honest Physi<g ref="char:EOLhyphen"/>tian for Counsel and Physick can perform. If the Distemper require a close Confinement, at his House Convenient Lodgings may be had if desired.</p>
+            <p n="11">11. He keeps an Operator that cleanses the Teeth, and makes them as white as Ivory, and extracts Aching Teeth with a Touch, and gives present ease to those pained with Hollow Teeth, and fastens loose Teeth, and sets in Artificial Teeth as if they were natural.</p>
+            <div type="testimonials">
+               <head>For the satisfaction of the Curious, shall be incorted only some few notable Cures, (out of the many Hundreds might be mentioned) which have been wrought by this Famous <hi>High-German</hi> Doctor lately.</head>
+               <p>HE Cured a Child (next Door to the <hi>Black Horse</hi> in <hi>Market Lane,</hi> near <hi>St. James</hi>'s Market,) that was Born Blind, in 13 days time. <hi>John Howel</hi> of the Parish of S. <hi>Thomas</hi> in the City of <hi>Bristol,</hi> Aged 72, And <hi>Alice Diddal</hi> of the Parish of <hi>Temple</hi> in the said City Aged Fourscore Years, and that they had been Blind 9 years, he restored their sight immediately, and perfectly cured both them and others in 14 days.</p>
+               <p>He also Cured a Child (at the sign of the <hi>George</hi> near <hi>St. James</hi>'s Market,) that was Born with a Rup<g ref="char:EOLhyphen"/>ture, he Cut and Cured him in 11 days time.</p>
+               <p>He Cured also a Child (at the <hi>York-shire House</hi> in <hi>Market Lane,</hi> near St. <hi>James's</hi> Market) that was trou<g ref="char:EOLhyphen"/>bled with the Stone almost ever since it was Born, he Cut him and took away the Stone which was as big as an Egg, and cured him in the space of between 3 or 4 Weeks.</p>
+               <p>
+                  <hi>Edward Cooke,</hi> near <hi>Marigold Stairs</hi> in <hi>Southwark,</hi> having had a Cancer in his Lip 4 years, and been 3 years under the hands of many eminent Physicians and Chyrurgions in and about this City, was perfect<g ref="char:EOLhyphen"/>ly Cured by this Famous Doctor in the space of 10 days. And many more might be mentioned, which there is not room to insert.</p>
+            </div>
+         </div>
+         <div type="location_and_hours_of_operation">
+            <p>
+               <hi>This Famous High-German Doctor is now for the Publick Good setled in the</hi> Strand, <hi>betwixt</hi> St. Clements <hi>Church and</hi> Temple Bar, <hi>at his House at the Sign of the</hi> Angel, <hi>just over against</hi> Essex Street; <hi>where the Pictures of Patients, and Ma<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al Operations are over the Door, and where there is a Red Cloth with Stones and Ruptures taken out of the Patients hanging by. And is to be spoken with from</hi> 8 <hi>in the morning till</hi> 11, <hi>and from</hi> 2 <hi>in the afternoon till</hi> 8 <hi>at night.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
